@@ -25,8 +25,7 @@ This repository contains the source code for a Swiggy clone, a web application t
    ```
 2. **Open `index.html` in Your Browser:**
    Open the `index.html` file in your preferred web browser to view the Swiggy clone application.
-   ![image](https://github.com/omkarchoudhary001/swiggy-clone/assets/109873576/6fad6187-365b-4395-b23d-e1e11ea4d460)
-   
+   ![Screenshot (8)](https://github.com/omkarchoudhary001/swiggy-clone/assets/109873576/70d5f238-6a13-4fba-9c94-a4dcde3c6d60)
 
 ## Usage
 
