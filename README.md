@@ -45,6 +45,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your changes to your branch.
 5. Create a pull request and describe your changes.
 
+https://github.com/omkarchoudhary001/swiggy-clone/assets/109873576/c0099bb0-f9ae-4422-a762-6173beff2eaa
 
 ## License
 
